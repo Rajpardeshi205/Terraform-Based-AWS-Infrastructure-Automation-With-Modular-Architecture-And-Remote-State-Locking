@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.pem
+*.key
+terraform.tfvars
+crash.log
+exam-ec2-key
+*-key
